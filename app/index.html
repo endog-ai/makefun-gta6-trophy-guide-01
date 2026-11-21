@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Legend — GTA 6 Trophy Guide &amp; Tracker</title>
+<meta name="description" content="The offline guide and tracker for all 55 GTA 6 trophies on PlayStation 5: every official name, description and grade, a guide with sources for each, a roadmap to the platinum, and a saved checklist.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <p class="kicker">Grand Theft Auto VI &middot; PlayStation 5 &middot; 55 trophies</p>
+  <h1>LEONIDA LEGEND</h1>
+  <p class="sub">The complete GTA 6 trophy guide &amp; tracker. Every official name, description and grade, a guide in our own words with its sources, a roadmap to the platinum, and a checklist that saves in your browser. Works fully offline.</p>
+  <div class="progress-wrap" aria-label="Overall progress">
+    <div class="progress-line"><span id="progress-text">0 of 55 earned &middot; 0%</span><span id="progress-platinum">Platinum: locked</span></div>
+    <div class="bar"><div id="progress-fill" class="bar-fill" style="width:0%"></div></div>
+    <div id="grade-counts" class="grade-counts"></div>
+  </div>
+  <p id="demo-note" class="demo-note" hidden>Demo progress shown for the screenshot (12 story trophies ticked in memory only — nothing saved).</p>
+</header>
+
+<main>
+  <section class="panel warn" id="missable-warning" aria-label="Missable trophy warning">
+    <h2>⚠ The one trophy you can miss</h2>
+    <p><strong>Positive Mental Attitude</strong> (meditate at all 18 spots) is the only trophy flagged as possibly missable. One meditation spot is at <strong>Jason&rsquo;s house in Chapter 1</strong>: after the mission <em>Down to Earth</em>, look for Lucia there in the morning, follow her to the balcony and meditate before you leave Chapter 1. Every other trophy is unmissable in a single playthrough with free roam after the story. <a href="#trophy-28" class="inline-link" data-open-trophy="28">Read its full guide &rarr;</a></p>
+    <p class="fact-row">Platinum estimate: ~200–300 hours &middot; 1 playthrough &middot; 0 online trophies &middot; No mission gold medals &middot; No mission replay &middot; Cheats disable trophies and saving.</p>
+  </section>
+
+  <section class="panel" id="roadmap" aria-label="Roadmap to the platinum">
+    <h2>Roadmap to the platinum</h2>
+    <p class="roadmap-intro">Five phases, in order. Finish the story first, meditate early in Chapter 1, then clean up in free roam. The 100% Completion checklist unlocks after the story at Touch Pad &gt; Progress &gt; 100% Completion.</p>
+    <ol id="roadmap-list" class="roadmap"></ol>
+  </section>
+
+  <section class="controls" aria-label="Filters and progress tools">
+    <div class="control-row">
+      <label class="grow">Search <input id="search" type="search" placeholder="Search name, description or guide…" autocomplete="off"></label>
+      <label>Grade <select id="grade-filter"><option value="all">All grades</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
+      <label>Kind <select id="kind-filter"><option value="all">All kinds</option><option value="story">Story</option><option value="side">Side &amp; strangers</option><option value="activity">Activities</option><option value="collectible">Collectibles</option><option value="crime">Crime &amp; robberies</option><option value="misc">Misc</option></select></label>
+    </div>
+    <div class="control-row">
+      <label class="check"><input id="missable-only" type="checkbox"> Missable only</label>
+      <label class="check"><input id="hide-earned" type="checkbox"> Hide earned</label>
+      <label class="check"><input id="spoiler-toggle" type="checkbox"> Spoiler mode: hide story trophy names until earned</label>
+      <span class="spacer"></span>
+      <button id="export-btn" type="button">Export progress</button>
+      <label class="import-btn">Import progress <input id="import-file" type="file" accept="application/json,.json"></label>
+      <button id="reset-btn" type="button">Reset</button>
+    </div>
+    <p id="filter-status" class="filter-status" aria-live="polite"></p>
+    <p class="online-note">Online trophies: none — all 55 are earned offline in story mode. Hidden trophies: 28 stay hidden on PlayStation until earned.</p>
+  </section>
+
+  <section aria-label="Trophy checklist">
+    <h2 class="section-title">Checklist <span id="shown-count"></span></h2>
+    <div id="trophy-list" class="trophy-list"></div>
+    <p id="empty-note" class="empty-note" hidden>No trophies match these filters. Clear the search or change a filter.</p>
+  </section>
+
+  <section class="panel sources-note" aria-label="About the sources">
+    <h2>Sources &amp; honesty note</h2>
+    <p>Every guide on this page is written in our own words for this entry. Each trophy cites the published guides its facts come from — Push Square, KeenGamer and GTAScoop — with a link beside the guide. The game launched 19 November 2026, one day before this guide was built: where no published guide has confirmed a detail yet (five hidden trophies), the guide says so plainly instead of inventing a method. Official trophy names, descriptions and grades are shown exactly as PlayStation publishes them. This guide uses no Rockstar logo or official artwork.</p>
+  </section>
+</main>
+
+<footer>
+  <p>Leonida Legend — an unofficial fan-made guide. Grand Theft Auto and GTA are trademarks of Rockstar Games. Not affiliated with Rockstar Games, Sony or PlayStation.</p>
+</footer>
+
+<aside id="detail-panel" class="detail-panel" aria-label="Trophy guide detail" hidden>
+  <button id="detail-close" type="button" class="detail-close" aria-label="Close guide">✕ Close</button>
+  <div id="detail-body"></div>
+</aside>
+<div id="detail-backdrop" class="detail-backdrop" hidden></div>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
