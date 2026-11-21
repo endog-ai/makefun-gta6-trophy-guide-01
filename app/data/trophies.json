@@ -1,0 +1,868 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "note": "Names, descriptions and grades are the official list as published by PlayStation and cross-checked by Exophase, PSNProfiles, Push Square, KeenGamer and GTAScoop. Guides are written in our own words for this entry; each cites the published guide its facts come from. Where no published guide has confirmed a detail yet (the game launched 19 Nov 2026), the guide says so instead of guessing.",
+ "sources": {
+  "pushsquare": {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+  "keengamer": {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+  "gtascoop": {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"},
+  "planetgta6": {"name": "PlanetGTA6 — GTA 6 Trophies: All 55 trophies and Xbox achievements", "url": "https://www.planetgta6.com/en/gta-6-trophies/"}
+ },
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "count": null,
+   "guide": "The Platinum pops automatically the moment the other 54 trophies are all earned — there is nothing extra to do for this one. Expect a long road: Push Square estimates up to 300 hours or more, KeenGamer about 200 hours, and the 100% Completion trophy (A Long Road) takes most of that time. All 55 trophies are offline, in a single playthrough, with free roam after the story.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Finish Gone Fishing, Jason's opening mission — the first story mission of the game. Just follow the on-screen prompts through it; the trophy pops when the mission ends. Unmissable, and the first trophy most players will earn.",
+   "sources": [
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"},
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"}
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Play through the story until Chapter 1 is complete; the trophy pops at the chapter's end. Unmissable. One warning for Chapter 1: do the balcony meditation at Jason's house (see Positive Mental Attitude) before you leave the chapter — it is the only trophy-related moment in the game flagged as possibly missable.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Play through the story until Chapter 2 is complete; the trophy pops at the chapter's end. Unmissable — just keep following the main story missions.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Play through the story until Chapter 3 is complete; the trophy pops at the chapter's end. Unmissable — it comes from story progress alone, no side content needed.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Play through the story until Chapter 4 is complete; the trophy pops at the chapter's end. Unmissable. By this point the big bank vault robberies open up (see Maximum Withdrawal), so it is a good moment to start the robbery side content.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Finish the final story mission to earn this gold trophy. Unmissable. Once it pops, free roam stays open across Leonida, so every remaining trophy can be cleaned up afterwards — there is no need to rush side content before the finale.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Complete the story mission Breakfast Run. It pops automatically when the mission ends — no special requirement, no gold medal needed, since the game has no mission gold medals and no mission replay.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Complete the story mission The Cartel Heist. It pops automatically when the mission ends. Unmissable — it is part of the main story path.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Complete the story mission Child's Play. It pops automatically when the mission ends. Unmissable — part of the main story path.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Complete the story mission Headliners. It pops automatically when the mission ends. Unmissable — part of the main story path.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Complete the story mission VCIA Takedown at Vice City International Airport. It pops automatically when the mission ends. Unmissable — part of the main story path.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "kind": "story",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Complete the story mission Operation Savage Glory. It pops automatically when the mission ends. Unmissable — part of the main story path.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "count": 100,
+   "guide": "Reach 100% completion — the hardest trophy in the set. The 100% Completion Checklist unlocks only after you finish the story; check it at Touch Pad, then Progress, then 100% Completion. You do not need literally everything: for example there are 18 collectible card sets but only 15 count toward 100%, and 70 of the 80 challenges. KeenGamer's checklist totals include finishing all chapters, 100 optional tasks, all 39 gang operations, all 22 bank jobs, 7 payday loan jobs, 8 bank vaults, 15 card sets, 100 WAiNK scans, 33 underwater discoveries, 100 cocaine flamingos, 30 of 40 races won, all 42 shooting range gold medals, all 42 drone time trials, 300 of 397 stunts, 70 of 80 challenges and all 15 of Bret's target decks. Work through the in-game checklist itself — it is the authority — and expect this to take most of your platinum time.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "count": 250,
+   "guide": "Complete 250 stunts — a little over half of the 397 in the game. Push Square breaks them down as 130 stunt jumps (ramps, bridges, construction sites), 202 under-the-bridge flights, 40 knife flights between tall buildings, and 25 base jumps from peaks and tall buildings. Find stunt spots on the map at Touch Pad, Exploration, Stunt Spots, and track progress at Touch Pad, Progress, Activities, Stunts. Note that 300 stunts are needed for 100% completion, so keep going past 250.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "count": 9,
+   "guide": "Try each of the 9 activity types in Leonida at least once — just sample one of each and the trophy pops. KeenGamer counts 9 activity types in total. The fastest way is to open the map, pick one marker of each activity kind (races, shooting range, fishing, bowling, arcade games and the rest) and play a round of each. Nothing here needs winning or a medal.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "count": 42,
+   "guide": "Earn a gold medal in all 42 shooting range challenges. There are two ranges: Rodgers Ranch & Shooting Range in Port Gellhorn and Griffin Shooting Range in Balsero — find them at Touch Pad, Activities, Shooting Ranges. Most challenges have three difficulty tiers to clear for gold, and some are locked until you meet conditions shown on the map. Track progress at Touch Pad, Activities, Shooting Ranges. All 42 golds are also required for 100% completion, so this is not skippable.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "count": 14,
+   "guide": "Win a Top Fun drone race at all 14 locations. Some locations charge an entry fee, so bring cash. See every location on the map at Touch Pad, Activities, Drones, Top Fun Drones. Winning each location once is enough for the trophy; the separate drone time trials (42 of them) are a 100% completion requirement, not this trophy.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "count": 20,
+   "guide": "Win 20 different races — winning the same race 20 times does not count. Race locations appear across Leonida as you explore; track them at Touch Pad, Activities, Racing. Most locations let you hire a car, or bring your own — watch your car's Rating, which you can raise with upgrades from Mod Shops. Note that 100% completion wants 30 of 40 races won, so keep racing past 20.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "count": null,
+   "guide": "Fairly early in the game Cal asks you to catch a Parrotfish over 2 kg. Take a boat with a fishing rod to the area marked on your map — you can hijack a boat there if you do not own one — and fish until you land a fish over the weight. Beat Cal's catch and the trophy pops.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": false,
+   "missable": false,
+   "count": null,
+   "guide": "Complete any one arcade game. Find an arcade machine in Leonida, start a game and play it through to the end — just starting one is not enough. Any arcade game counts, so pick the one you find easiest.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "kind": "side",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Work through Andy's mission strand to its final mission and complete it. Andy's missions appear as side content as you play; the trophy pops when his last mission ends. Unmissable — side strands stay available in free roam after the story.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "kind": "side",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Work through Kenton's mission strand to its final mission, Maritime Disputes, and complete it. Push Square names Maritime Disputes as the mission that unlocks this trophy. Unmissable — the strand stays available in free roam after the story.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "kind": "side",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Work through Billy's mission strand to its final mission, Hometown Heroes, and complete it. Push Square names Hometown Heroes as the mission that unlocks this trophy. Unmissable — the strand stays available in free roam after the story.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "kind": "side",
+   "hidden": false,
+   "missable": false,
+   "count": 8,
+   "guide": "Complete 8 full mission strands for strangers across Leonida. Stranger missions appear as you explore — talk to the marked strangers and follow each strand to its end; a strand only counts once its final mission is done. The named strands for Andy, Kenton, Billy, Randy and Tyrone all count toward the 8, so this trophy builds naturally while you chase their individual trophies.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "kind": "side",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Work through all of Randy's missions to the final one and complete it. Randy's strand involves his wish-list vehicles — Push Square points to a list of Randy's Wish List vehicle locations to help you progress it. Unmissable — the strand stays available in free roam after the story.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "kind": "side",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Work through all of Tyrone's missions to the final one and complete it. Tyrone's strand involves the Kitty Litter Labs — Push Square points to a list of Kitty Litter Lab locations to help you progress it. Unmissable — the strand stays available in free roam after the story.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": false,
+   "missable": true,
+   "count": 18,
+   "guide": "Meditate at all 18 meditation spots across Leonida. THIS IS THE ONLY POSSIBLY MISSABLE TROPHY: KeenGamer and GTAScoop both flag it — one spot is at Jason's house in Chapter 1. After the mission Down to Earth, look for Lucia at Jason's house in the morning; when she mentions meditating, follow her to the balcony and accept her invitation, and complete that balcony meditation before leaving Chapter 1. A meditation only counts once its final 'zen' animation has played, so stay until it finishes. Track progress at Touch Pad, Progress, Collections, Exploration, Meditations, and find discovered spots at Touch Pad, Exploration, Meditate Around Leonida. Note: 100% completion only needs 15 of the 18 meditations — this trophy needs all 18. Keep manual saves at the start and end of each chapter as a safety net, since there is no mission replay.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "kind": "side",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Hunt a unique animal for Bret — take on one of Bret's hunting targets and bring it down. Bret's Target Deck has 15 objectives in total, and all 15 are needed for 100% completion, but this trophy needs just one unique animal hunted for him. Unmissable — hunting stays available in free roam after the story.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "kind": "collectible",
+   "hidden": false,
+   "missable": false,
+   "count": 3,
+   "guide": "Complete 3 full collectible card sets. There are 18 sets in the game, so pick the three whose cards you find first and finish them. Cards you have already collected can be sold at Pawn Shops and still count toward your progress. Track it at Touch Pad, Progress, Collections, Collectible Cards. Note that 100% completion needs 15 of the 18 sets, so this trophy comes naturally on the way to A Long Road.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "kind": "collectible",
+   "hidden": false,
+   "missable": false,
+   "count": 100,
+   "guide": "Use the WAiNK app on your phone (hold Up to open it) to scan 100 locations across Leonida. Push Square lists the scannable kinds: 31 landmarks, 35 curiosities and 23 sculptures, plus No Flusher tags — scan anything the app highlights whenever you pass it. Track progress at Touch Pad, Progress, Collections, WAiNK Locations. Start scanning early and this finishes on its own; 100 scans are also a 100% completion requirement.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "count": 80,
+   "guide": "Complete 50 of the 80 challenges in the game. Challenges are in-game feats that reward skilful play — see the full list and their requirements at Touch Pad, Progress, Challenges. You can skip the hardest 30: only 50 are needed here, though 70 are needed for 100% completion, so keep ticking off the easier ones as you clean up.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "kind": "crime",
+   "hidden": false,
+   "missable": false,
+   "count": null,
+   "guide": "With your partner beside you, build up a 4-star wanted level, then lose the cops and escape. The key is doing it together — a 4-star escape on your own does not count. Commit crimes with your partner in the car or on foot until the fourth star appears, then break line of sight, hide until the wanted level clears, and the trophy pops once you are free.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "kind": "crime",
+   "hidden": false,
+   "missable": false,
+   "count": null,
+   "guide": "With your partner, rob 3 shops back-to-back without losing your wanted level — the trick is the opposite of a normal escape: keep the heat on. Rob a shop, move straight to the next and rob it, then a third, all while staying wanted the whole time. Do not let the wanted level clear between robberies, and do not get caught. Pick three shops close together so the run is short.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "kind": "collectible",
+   "hidden": false,
+   "missable": false,
+   "count": 100,
+   "guide": "Discover 100 different vehicles. A vehicle counts as discovered when you get inside it or scan it with the WAiNK app, so hop into everything new you see and scan what you pass. It should happen naturally through the story, and you can check what you have found at Touch Pad, Progress, Vehicles. Note that 100% completion wants 200 of the 277 base-model vehicles scanned, so keep discovering past 100.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+   ]
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "kind": "crime",
+   "hidden": false,
+   "missable": false,
+   "count": null,
+   "guide": "Take down 5 enemies during a single activation of Combat Focus. Set it up where enemies are grouped together — a shootout with several opponents in the open works best — then trigger Combat Focus and drop five of them before it ends. If you fall short, just try again in the next fight; there is no penalty for failing.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "kind": "crime",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Make an unscheduled departure from Vice City International Airport — in practice, steal a departing passenger aircraft and take off with it, as KeenGamer describes it. Get onto the airfield, board a passenger plane that is about to leave, and get it airborne. Expect a wanted level, so go in with a plan to break away once you are up.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "kind": "crime",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Steal a Rhino military tank and use it in combat, as KeenGamer describes it — the trophy's own description ('Kinda hot in these Rhinos') is a hint, not an instruction, and no published guide has spelled out the exact spawn yet. Look for Rhinos at military sites and expect heavy resistance; once you have one, use its cannon in a fight and the trophy should pop.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "kind": "crime",
+   "hidden": false,
+   "missable": false,
+   "count": null,
+   "guide": "Rob a jewelry store without being detected. Go in quiet: avoid the cameras and staff sightlines, take the goods without tripping an alarm, and get out before anyone raises it. If you are spotted, the attempt fails — leave, lose the heat, and try a different store or a quieter approach.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "kind": "crime",
+   "hidden": false,
+   "missable": false,
+   "count": 5,
+   "guide": "Rob 5 bank vaults and escape each time. There are 8 vaults in total, and they open up through the optional mission 'That's Where The Money Is...' in Chapter 4 — KeenGamer notes you should leave the big vaults until that mission unlocks them. GTAScoop adds a practical tip: timing a job with an armored truck delivery gets the vault open. You need 5 for this trophy and all 8 for 100% completion.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "kind": "crime",
+   "hidden": false,
+   "missable": false,
+   "count": null,
+   "guide": "Rob an armored truck and escape. Ambush a truck on the road — block it, deal with its guards, crack it open and take the cash, then lose the wanted level. Armored trucks roam Leonida's roads, so watch for one, strike fast, and have an escape route planned before you start.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "kind": "collectible",
+   "hidden": false,
+   "missable": false,
+   "count": 52,
+   "guide": "Explore all of Leonida — visit all 52 areas of the map so the whole state is uncovered. Drive, fly and sail into every corner: Vice City, the beaches, the swamps, the keys and the countryside. The map fills in as you go, so chase the foggy patches and the trophy pops when the last area is revealed.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "kind": "crime",
+   "hidden": false,
+   "missable": false,
+   "count": 9,
+   "guide": "Rob an illegal operation belonging to each of the 9 gangs in Leonida — one per gang is enough. Gang operations are marked around the map; hit one operation for every gang and keep a mental tally of which gangs you have done. All 39 gang operations are needed for 100% completion, so this trophy comes early on that road.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Enjoy a cocktail with a view on Ocean Beach. UNCONFIRMED: no published guide has verified the exact trigger yet — GTAScoop lists it as 'reportedly: enjoy a cocktail on Ocean Beach' and KeenGamer says the exact trigger is still being confirmed. The plain reading is to order a cocktail at a bar overlooking Ocean Beach and drink it there; try the beachfront bars first, and do not be surprised if the precise spot turns out to be a specific venue.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Smash your way out of a vehicle showroom in classic style. UNCONFIRMED: KeenGamer says the exact method is still unconfirmed and GTAScoop lists it only as 'reportedly: smash out of a vehicle showroom'. The plain reading is to drive a car straight through a showroom's front window and out — the classic GTA move — but the exact showroom or vehicle has not been verified by any published guide yet.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Follow through at the Kolt & Associates' bowling alley. KeenGamer's account is that you steal the three key valuables at the bowling alley and escape — but GTAScoop names a different venue ('Kingpin Bowling'), so the exact location is still unconfirmed and the two guides disagree. Go to the Kolt & Associates alley first, as the trophy's own description names it, look for valuables to take, and expect a getaway.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "A partnership with mass appeal — the description is deliberately vague. KeenGamer's account is that you maximise the Strength stat for both Jason and Lucia. Train Strength with both characters (gym work and physical activity raise it) until both are maxed. Treat this as KeenGamer's reading rather than fully confirmed: no other published guide we checked has verified it yet.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "count": 500,
+   "guide": "Perform 500 actions that affect your Criminal Profile. KeenGamer and GTAScoop agree on the number: 500 Criminal Profile actions. Your Criminal Profile tracks the crimes and choices you make across Leonida, so this builds up through normal play — robberies, heists, stick-ups and other criminal acts all feed it. Check your profile in the Progress menu to see where you stand.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Second time's the charm. UNCONFIRMED: both KeenGamer and GTAScoop list this hidden trophy's unlock method as not known yet. The description suggests succeeding at something on a second attempt after failing once — but no published guide has verified what, so this guide will not invent a method. Check back: the method will be added once a published guide confirms it.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "What the hell just happened? UNCONFIRMED: both KeenGamer and GTAScoop list this hidden trophy's unlock method as not known yet. The name and description point to witnessing something strange or unexplained out in Leonida — but no published guide has verified the event or the place, so this guide will not invent one. Check back once a published guide confirms it.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "kind": "activity",
+   "hidden": true,
+   "missable": false,
+   "count": null,
+   "guide": "Bowl 'em over with a melee drive-by — knock someone down with a melee attack from a moving vehicle. UNCONFIRMED in detail: KeenGamer says the precise method is still being confirmed. The plain reading is to swing a melee weapon at a pedestrian while driving past; aim for a slow pass on a quiet street so the swing connects, and expect a wanted level.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "count": 250000,
+   "guide": "Launder a total of $250,000 in Marked Bills through your contacts. Marked Bills come from robberies and heists — they are dirty money until you wash them through a contact, so keep laundering every batch you earn instead of letting it pile up. The total is cumulative across the whole game, and $250,000 laundered is also a 100% completion requirement.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "count": 100000,
+   "guide": "Spend a total of $100,000 across all shops. Any shop spending counts — clothes, weapons, food, whatever you buy — and the total is cumulative. Push Square notes you can find shops on the map at Touch Pad, Style. It adds up fast if you buy gear and upgrades as you go, so do not save it all for the end; spend naturally and it pops on its own.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "count": 8,
+   "guide": "Buy all 8 garage properties through the Vice City Real Estate app on your phone (press Up for the phone). Push Square lists all eight, $160,000 in total: Mitchel Auto Center $4,000; 7th Avenue Garage $12,000; Vela Rota Drive Garage $24,000; Persistence Road Garage $7,600; Wyatt Motors $21,600; Bonita Court Garage $34,000; Atlantic Court Garage $40,000; Store n' Bolt $16,800. Each garage adds one parking spot, which also helps On the Spot — buy them as you can afford them.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "kind": "misc",
+   "hidden": false,
+   "missable": false,
+   "count": 10,
+   "guide": "Register 10 different vehicles to the Scooter Bros app. Scooter Bros delivers your registered, fully repaired vehicles to your location for a small fee. Register a vehicle you are driving at a Pay 'N' Spray or Mod Shop, as long as you have a free parking spot — the fee varies with the vehicle's value. Buy more garages (see Little Boxes) for more spots, then register 10 different vehicles.",
+   "sources": [
+    {"name": "Push Square — GTA 6: Trophy Guide & Roadmap", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap, All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "GTAScoop — GTA 6 Trophies & Achievements: Full List of 55 and Platinum", "url": "https://gtascoop.com/guides/gta-6-trophies-achievements/"}
+   ]
+  }
+ ]
+}
